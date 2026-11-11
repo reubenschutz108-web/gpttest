@@ -1,0 +1,12 @@
+# slide.pengu — conditions slide one way or another
+let temp = 4
+
+slide temp < 0:
+  say "Freezing! Bundle up."
+else:
+  say "Chilly but fine. 🐧"
+
+slide temp > 20:
+  say "T-shirt weather"
+else:
+  say "Pengu weather"
