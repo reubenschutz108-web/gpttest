@@ -1,0 +1,13 @@
+# hello.pengu — your first Pengu program
+say "Hello from Pengu!"
+
+let name = "builder"
+say "Welcome, " + name
+
+for i in 0..5:
+  say i
+
+flock greet(who):
+  return "Hi " + who + "!"
+
+say greet("Pengu")

@@ -1,0 +1,10 @@
+{
+  "name": "pengu",
+  "version": "0.1.0",
+  "print": "say",
+  "function": "flock",
+  "loop": "for",
+  "condition": "slide",
+  "comment": "#",
+  "indent": 2
+}
